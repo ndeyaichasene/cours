@@ -1,5 +1,7 @@
 <script setup>
-import VBind from './demos/03_vBind/V-Bind.vue';
+import AttributDynamic from './demos/04_attributDynamic/AttributDynamic.vue';
+
+// import VBind from './demos/03_vBind/V-Bind.vue';
 
 // import HelloWorld from './demos/01_helloWorld/HelloWorld.vue';
 // import Interpolation from './demos/02_interpolation/Interpolation.vue';
@@ -11,7 +13,8 @@ import VBind from './demos/03_vBind/V-Bind.vue';
     <!-- <HelloWorld></HelloWorld>
     <div class="card">szdxfcgvhb</div> -->
     <!-- <Interpolation></Interpolation>  -->
-    <VBind></VBind>
+    <!-- <VBind></VBind> -->
+     <AttributDynamic></AttributDynamic>
 
   </section>
 </template>

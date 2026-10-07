@@ -26,7 +26,6 @@ const person = {fullName: "Aicha Sene",role:"Fullstack"}
     border: 1px;
     border-radius: 12px;
     border: 1px dashed #ccc;
-
 }
 .div{
     margin-top: 10px;

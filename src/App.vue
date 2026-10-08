@@ -1,5 +1,7 @@
 <script setup>
-import Rendering from './demos/08_rendering/Rendering.vue';
+import VFor from './demos/09_vFor/VFor.vue';
+
+// import Rendering from './demos/08_rendering/Rendering.vue';
 
 // import Computed from './demos/07_computed/Computed.vue';
 
@@ -38,7 +40,8 @@ import Rendering from './demos/08_rendering/Rendering.vue';
     <!-- <FormEvent></FormEvent> -->
     <!-- <Reactive></Reactive> -->
     <!-- <Computed></Computed> -->
-    <Rendering></Rendering>
+    <!-- <Rendering></Rendering> -->
+    <VFor></VFor>
     
 
 

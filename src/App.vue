@@ -1,5 +1,7 @@
 <script setup>
-import VFor from './demos/09_vFor/VFor.vue';
+import Props from './demos/11_props/Props.vue';
+
+// import VFor from './demos/09_vFor/VFor.vue';
 
 // import Rendering from './demos/08_rendering/Rendering.vue';
 
@@ -41,7 +43,8 @@ import VFor from './demos/09_vFor/VFor.vue';
     <!-- <Reactive></Reactive> -->
     <!-- <Computed></Computed> -->
     <!-- <Rendering></Rendering> -->
-    <VFor></VFor>
+    <!-- <VFor></VFor> -->
+    <Props></Props>
     
 
 

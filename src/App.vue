@@ -1,8 +1,10 @@
 <script setup>
+import Reactive from './demos/06_reactive/Reactive.vue';
+
 
 // import Event from './demos/05_events/Event.vue';
 
-import FormEvent from './demos/05_events/FormEvent.vue';
+// import FormEvent from './demos/05_events/FormEvent.vue';
 
 // import Event from './demos/05_events/Event.vue';
 
@@ -30,7 +32,8 @@ import FormEvent from './demos/05_events/FormEvent.vue';
     <!-- <VBind></VBind> -->
     <!-- <AttributDynamic></AttributDynamic> -->
      <!-- <Event></Event> -->
-    <FormEvent></FormEvent>
+    <!-- <FormEvent></FormEvent> -->
+     <Reactive></Reactive>
 
 
   </section>

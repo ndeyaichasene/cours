@@ -1,6 +1,7 @@
 <script setup>
-import Reactive from './demos/06_reactive/Reactive.vue';
+import Computed from './demos/07_computed/Computed.vue';
 
+// import Reactive from './demos/06_reactive/Reactive.vue';
 
 // import Event from './demos/05_events/Event.vue';
 
@@ -8,12 +9,12 @@ import Reactive from './demos/06_reactive/Reactive.vue';
 
 // import Event from './demos/05_events/Event.vue';
 
-
 // import AttributDynamic from './demos/04_attributDynamic/AttributDynamic.vue';
 
 // import VBind from './demos/03_vBind/V-Bind.vue';
 
 // import HelloWorld from './demos/01_helloWorld/HelloWorld.vue';
+
 // import Interpolation from './demos/02_interpolation/Interpolation.vue';
 
 </script>
@@ -33,7 +34,8 @@ import Reactive from './demos/06_reactive/Reactive.vue';
     <!-- <AttributDynamic></AttributDynamic> -->
      <!-- <Event></Event> -->
     <!-- <FormEvent></FormEvent> -->
-     <Reactive></Reactive>
+     <!-- <Reactive></Reactive> -->
+      <Computed></Computed>
 
 
   </section>

@@ -1,5 +1,5 @@
 <script setup>
-const montant= 1000000;
+const montant= 2500000;
 const prime = 0.5;
 const annee= new Date().getFullYear();
 const person = {fullName: "Aicha Sene",role:"Fullstack"}

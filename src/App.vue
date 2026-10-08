@@ -1,5 +1,7 @@
 <script setup>
-import Computed from './demos/07_computed/Computed.vue';
+import Rendering from './demos/08_rendering/Rendering.vue';
+
+// import Computed from './demos/07_computed/Computed.vue';
 
 // import Reactive from './demos/06_reactive/Reactive.vue';
 
@@ -32,10 +34,12 @@ import Computed from './demos/07_computed/Computed.vue';
     <!-- <Interpolation></Interpolation>   -->
     <!-- <VBind></VBind> -->
     <!-- <AttributDynamic></AttributDynamic> -->
-     <!-- <Event></Event> -->
+    <!-- <Event></Event> -->
     <!-- <FormEvent></FormEvent> -->
-     <!-- <Reactive></Reactive> -->
-      <Computed></Computed>
+    <!-- <Reactive></Reactive> -->
+    <!-- <Computed></Computed> -->
+    <Rendering></Rendering>
+    
 
 
   </section>

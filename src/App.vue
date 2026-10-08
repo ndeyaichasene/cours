@@ -1,5 +1,7 @@
 <script setup>
-import AttributDynamic from './demos/04_attributDynamic/AttributDynamic.vue';
+import Event from './demos/05_events/Event.vue';
+
+// import AttributDynamic from './demos/04_attributDynamic/AttributDynamic.vue';
 
 // import VBind from './demos/03_vBind/V-Bind.vue';
 
@@ -14,7 +16,8 @@ import AttributDynamic from './demos/04_attributDynamic/AttributDynamic.vue';
     <div class="card">szdxfcgvhb</div> -->
     <!-- <Interpolation></Interpolation>  -->
     <!-- <VBind></VBind> -->
-     <AttributDynamic></AttributDynamic>
+    <!-- <AttributDynamic></AttributDynamic> -->
+     <Event></Event>
 
   </section>
 </template>
